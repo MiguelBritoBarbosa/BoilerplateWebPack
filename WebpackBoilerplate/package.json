@@ -4,7 +4,7 @@
   "description": "Template de webpack",
   "main": "index.js",
   "scripts": {
-    "LoadWebpack": "webpack -w "
+    "dev": "webpack -w "
   },
   "author": "Miguel Brito Barbosa",
   "license": "ISC",
