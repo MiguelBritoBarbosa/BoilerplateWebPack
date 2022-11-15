@@ -23,3 +23,9 @@ Um template de configuração do WebPack com Babel.
   <br>Site Oficial: https://webpack.js.org/
 </p>
 
+
+<h3>Comandos:</h3>
+<p>
+  npm i --save-dev @babel/present-env @babel/cli @babel/core babel-loader webpack webpack-cli<br>
+  npm i regenerator-runtime core-sj@2
+</p>
