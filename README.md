@@ -27,5 +27,5 @@ Um template de configuração do WebPack com Babel.
 <h3>Comandos:</h3>
 <p>
   npm i --save-dev @babel/present-env @babel/cli @babel/core babel-loader webpack webpack-cli<br>
-  npm i core-js regenerator-runtime
+  npm i core-js css-loader regenerator-runtime style-loader
 </p>
